@@ -1,0 +1,5 @@
+fastapi
+beautifulsoup4
+lxml
+requests
+pillow
